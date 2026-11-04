@@ -52,11 +52,12 @@ All examples are built around the same **streaming-platform project** as Part 6 
 ## 🎓 OCP 1Z0-829 objectives covered
 
 - **Utilizing Java object-oriented approach**
-  - Create and use interfaces, identify functional interfaces, and utilize private, static, and default interface methods
+  - Declare and instantiate Java objects including nested class objects, and explain the object life-cycle
+  - Create classes and records, and define and use instance and static fields and methods, constructors, and initializers
+  - Understand variable scopes, apply encapsulation, and make objects immutable
+  - Implement polymorphism and differentiate object type versus reference type; perform type casting, identify object types using the `instanceof` operator and pattern matching
+  - Create and use interfaces, identify functional interfaces, and utilize `private`, `static`, and `default` interface methods
   - Create and use enumerations with fields, methods and constructors
-  - Implement inheritance, including abstract and sealed types as well as record classes
-  - Create and use nested classes: static nested, inner, local and anonymous classes
-  - Utilize polymorphism and casting to call methods, differentiate object type versus reference type
 
 ---
 

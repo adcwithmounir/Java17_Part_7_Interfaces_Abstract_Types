@@ -40,7 +40,7 @@ All examples are built around the same **streaming-platform project** as Part 6 
 | 1 | `Part_7_1_Interfaces_Abstract_Types` | **Interfaces** | Declaring and implementing interfaces, `default`, `static` and `private` interface methods, multiple inheritance of behavior | ✅ |
 | 2 | `Part_7_2_Interfaces_Abstract_Types` | **Enums** | Enums with fields, constructors and methods, `values()` / `valueOf()` / `ordinal()`, enums in `switch` | ✅ |
 | 3 | `Part_7_3_Interfaces_Abstract_Types` | **Sealed classes** | `sealed`, `permits`, `final` and `non-sealed` subclasses, sealed interfaces | ✅ |
-| 4 | `Part_7_4_Interfaces_Abstract_Types` | **Records** | Compact and canonical constructors, accessors, immutability, what you can and can't add to a record | 🔜 |
+| 4 | `Part_7_4_Interfaces_Abstract_Types` | **Records** | Compact and canonical constructors, accessors, immutability, what you can and can't add to a record | ✅ |
 | 5 | `Part_7_5_Interfaces_Abstract_Types` | **Nested classes** | Inner, static nested, local and anonymous classes, and what each one can access | 🔜 |
 | 6 | `Part_7_6_Interfaces_Abstract_Types` | **Polymorphism** | Object vs. reference type, casting, `instanceof` and pattern matching, virtual method calls | 🔜 |
 | 7 | NO LABS (see the video) | **Chapter Review & Practice Questions** | Summary, exam essentials and OCP-style practice questions | 🔜 |

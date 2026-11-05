@@ -37,7 +37,7 @@ All examples are built around the same **streaming-platform project** as Part 6 
 
 | # | Folder | Video topic | What you'll learn | Status |
 |:-:|---|---|---|:-:|
-| 1 | `Part_7_1_Interfaces_Abstract_Types` | **Interfaces** | Declaring and implementing interfaces, `default`, `static` and `private` interface methods, multiple inheritance of behavior | 🔜 |
+| 1 | `Part_7_1_Interfaces_Abstract_Types` | **Interfaces** | Declaring and implementing interfaces, `default`, `static` and `private` interface methods, multiple inheritance of behavior | ✅ |
 | 2 | `Part_7_2_Interfaces_Abstract_Types` | **Enums** | Enums with fields, constructors and methods, `values()` / `valueOf()` / `ordinal()`, enums in `switch` | 🔜 |
 | 3 | `Part_7_3_Interfaces_Abstract_Types` | **Sealed classes** | `sealed`, `permits`, `final` and `non-sealed` subclasses, sealed interfaces | 🔜 |
 | 4 | `Part_7_4_Interfaces_Abstract_Types` | **Records** | Compact and canonical constructors, accessors, immutability, what you can and can't add to a record | 🔜 |

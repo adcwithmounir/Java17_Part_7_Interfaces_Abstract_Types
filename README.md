@@ -42,7 +42,7 @@ All examples are built around the same **streaming-platform project** as Part 6 
 | 3 | `Part_7_3_Interfaces_Abstract_Types` | **Sealed classes** | `sealed`, `permits`, `final` and `non-sealed` subclasses, sealed interfaces | ✅ |
 | 4 | `Part_7_4_Interfaces_Abstract_Types` | **Records** | Compact and canonical constructors, accessors, immutability, what you can and can't add to a record | ✅ |
 | 5 | `Part_7_5_Interfaces_Abstract_Types` | **Nested classes** | Inner, static nested, local and anonymous classes, and what each one can access | ✅ |
-| 6 | `Part_7_6_Interfaces_Abstract_Types` | **Polymorphism** | Object vs. reference type, casting, `instanceof` and pattern matching, virtual method calls | 🔜 |
+| 6 | `Part_7_6_Interfaces_Abstract_Types` | **Polymorphism** | Object vs. reference type, casting, `instanceof` and pattern matching, virtual method calls | ✅ |
 | 7 | NO LABS (see the video) | **Chapter Review & Practice Questions** | Summary, exam essentials and OCP-style practice questions | 🔜 |
 
 > ✅ Available · 🔜 Coming soon — the repo is updated as new videos are released.
